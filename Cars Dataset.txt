@@ -1,0 +1,14 @@
+Car Dataset Project:
+
+In this project we will use,
+
+import pandas
+pd.read_csv
+
+1.head()
+2.shape
+3. isnull()
+4. fillna()
+5. value_counts
+6. isin()
+7. apply()
